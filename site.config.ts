@@ -85,11 +85,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: '4411298a413c4833a558bc6bd0a87d72'
+      pageId: '9c410a2457b64e8794efe7ef49154038'
     },
     {
       title: 'Contact',
-      pageId: '0ffc434b7004472a93e1b156d6db553c'
+      pageId: '9c410a2457b64e8794efe7ef49154038'
     }
   ]
 })
