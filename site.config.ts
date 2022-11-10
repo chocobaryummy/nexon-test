@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '77962fb18ffc4616a7a8f2628cae3558',
+  rootNotionPageId: 'dd7e97ee903e4b338d6ae0a7580cf81c',
 
   // It's will be used as the root page when running `yarn dev`. (optional)
   // If you are suffering from the slow loading or compiling speed, set this to a smaller page.
